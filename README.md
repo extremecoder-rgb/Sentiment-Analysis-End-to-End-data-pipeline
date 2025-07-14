@@ -89,7 +89,7 @@ flowchart TD
 
 ## Project Structure
 ```
-YT-Capstone-Project-main/
+Sentiment-Analysis/
 ├── flask_app/                # Flask web app for sentiment prediction
 │   ├── app.py                # Main Flask application
 │   ├── load_model_test.py    # Model loading test script
@@ -130,7 +130,7 @@ YT-Capstone-Project-main/
 ### 1. Clone the Repository
 ```bash
 git clone <your-repo-url>
-cd YT-Capstone-Project-main
+cd Sentiment-Analysis
 ```
 ### 2. Install Dependencies
 - For the full project:
